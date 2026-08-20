@@ -175,7 +175,7 @@ MoodyFoody
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/MoodyFoody.git
+git clone:  https://github.com/sameenakausar-05/-MoodyFoody.git
 ```
 
 ---
