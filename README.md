@@ -130,10 +130,10 @@ MoodyFoody
 ---
 
 # 📸 Screenshots
-
-Add screenshots of:
-
 - Home Page
+<img width="1920" height="918" alt="home" src="https://github.com/user-attachments/assets/f65e065c-50f0-4164-b84e-dfbb9527cbf4" />
+
+
 - Restaurants
 - Menu
 - Cart
